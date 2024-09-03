@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|c:\\users\\admin\\desktop\\887\\\u0440\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0430\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|solutionrelative:admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\raspisanie.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|solutionrelative:raspisanie.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\databases.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|solutionrelative:databases.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\databases.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|solutionrelative:databases.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Admin.xaml.cs",
+              "RelativeToolTip": "Admin.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowFcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:26:50.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBases.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\DataBases.xaml",
+              "RelativeDocumentMoniker": "DataBases.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\DataBases.xaml",
+              "RelativeToolTip": "DataBases.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T18:20:17.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\DataBase.cs",
+              "RelativeToolTip": "DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:45:43.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBases.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\DataBases.xaml.cs",
+              "RelativeDocumentMoniker": "DataBases.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\DataBases.xaml.cs",
+              "RelativeToolTip": "DataBases.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAhwEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:44:39.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Raspisanie.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Raspisanie.xaml.cs",
+              "RelativeDocumentMoniker": "Raspisanie.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\887\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Raspisanie.xaml.cs",
+              "RelativeToolTip": "Raspisanie.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:37:11.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

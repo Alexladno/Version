@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\12.06.24\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|c:\\users\\admin\\desktop\\12.06.24\\\u0440\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0430\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F\\vkladka3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|solutionrelative:vkladka3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|C:\\Users\\ADMIN\\Desktop\\12.06.24\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F\\vkladka3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B798B8B-939D-47B4-9CDA-43B4EA0174E0}|\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.csproj|solutionrelative:vkladka3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vkladka3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\12.06.24\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F\\vkladka3.xaml.cs",
+              "RelativeDocumentMoniker": "vkladka3.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\12.06.24\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F\\vkladka3.xaml.cs",
+              "RelativeToolTip": "vkladka3.xaml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwG4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:08:34.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vkladka3.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\12.06.24\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F\\vkladka3.xaml",
+              "RelativeDocumentMoniker": "vkladka3.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\12.06.24\\\u0420\u0430\u0441\u043F\u0438\u0441\u0430\u043D\u0438\u0435\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u002B \u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F\\vkladka3.xaml",
+              "RelativeToolTip": "vkladka3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T13:05:49.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
