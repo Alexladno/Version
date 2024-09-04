@@ -1,0 +1,13 @@
+﻿<Window x:Class="UserRoleManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="User Role Management" Height="350" Width="500">
+    <Grid>
+        <ComboBox x:Name="userComboBox" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Width="200"/>
+        <ComboBox x:Name="roleComboBox" HorizontalAlignment="Left" Margin="30,70,0,0" VerticalAlignment="Top" Width="200">
+            <ComboBoxItem Content="адм"/>
+            <ComboBoxItem Content="модер"/>
+        </ComboBox>
+        <Button Content="Обновить роль" HorizontalAlignment="Left" Margin="30,110,0,0" VerticalAlignment="Top" Width="120" Click="UpdateRole_Click"/>
+    </Grid>
+</Window>

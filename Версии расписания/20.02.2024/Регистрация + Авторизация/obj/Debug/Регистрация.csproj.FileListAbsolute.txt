@@ -1,0 +1,278 @@
+E:\Регистрация\bin\Debug\Регистрация.exe.config
+E:\Регистрация\bin\Debug\Регистрация.exe
+E:\Регистрация\bin\Debug\Регистрация.pdb
+E:\Регистрация\bin\Debug\MaterialDesignColors.dll
+E:\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Регистрация\bin\Debug\MaterialDesignColors.pdb
+E:\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Регистрация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+E:\Регистрация\obj\Debug\MainWindow.g.cs
+E:\Регистрация\obj\Debug\App.g.cs
+E:\Регистрация\obj\Debug\Регистрация_MarkupCompile.cache
+E:\Регистрация\obj\Debug\Регистрация_MarkupCompile.lref
+E:\Регистрация\obj\Debug\App.baml
+E:\Регистрация\obj\Debug\MainWindow.baml
+E:\Регистрация\obj\Debug\Регистрация.g.resources
+E:\Регистрация\obj\Debug\Регистрация.Properties.Resources.resources
+E:\Регистрация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+E:\Регистрация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+E:\Регистрация\obj\Debug\Регистрация.csproj.CopyComplete
+E:\Регистрация\obj\Debug\Регистрация.exe
+E:\Регистрация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Login.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Login.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\EntityFramework.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\EntityFramework.SqlServer.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\EntityFramework.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\EntityFramework.SqlServer.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Login.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Login.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Login.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Login.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\UserPageWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\UserPageWindow.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Login.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\UserPageWindow.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\App.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Login.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\UserPageWindow.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Login.g.cs
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\UserPageWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Login.baml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\UserPageWindow.baml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Login.g.cs
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\UserPageWindow.g.cs
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\App.baml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Login.baml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\UserPageWindow.baml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Dynamitey.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\ExtraTools.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\System.Drawing.Common.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
