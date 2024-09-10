@@ -37,6 +37,37 @@ create table oneisip22(
   podmena varchar(50)
   );
 
+
+
+
+
+create table twoisip22(
+  id int IDENTITY(1,1) PRIMARY KEY not null,
+  name_day varchar(50) not null,
+  name_predmet varchar(50) not null,
+  name_grup varchar(50) not null,
+  fio_prepod varchar(50) not null,
+  para int not null,
+  number_aud int not null,
+  data_pari date not null,
+  podmena varchar(50)
+  );
+
+
+
+
+create table oneisip21(
+  id int IDENTITY(1,1) PRIMARY KEY not null,
+  name_day varchar(50) not null,
+  name_predmet varchar(50) not null,
+  name_grup varchar(50) not null,
+  fio_prepod varchar(50) not null,
+  para int not null,
+  number_aud int not null,
+  data_pari date not null,
+  podmena varchar(50)
+  );
+
   create table users(
 id_users int IDENTITY(1,1) PRIMARY KEY NOT NULL,
 fio_users varchar(50) not null,
